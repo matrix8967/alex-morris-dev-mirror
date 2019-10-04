@@ -1,70 +1,36 @@
-# Site settings
-title: Alex Morris 👋
-description: "Just wanna find what I love, and let it make me too big for my clothes."
-baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "http://matrix8967.gitlab.io/alexmorris.dev/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
-
-# User settings
-username: Alex Morris
-user_title: Linux SysAdmin. Amatuer Hour Developer. Netsec Try Hard.
+# site settings
+title: 👋 Alex Morris
+subtitle: I just wanna find what I love, and have it make me too big for my clothes.
 email: hey@mainframe.computer
-#twitter_username: loremipsum
-#github_username:  loremipsum
-#gplus_username:  loremipsum
-#linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-#disqus_username: loremipsum
-profile_picture: https://matrix8967.keybase.pub/Bobby.jpg
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "alexmorris.dev"# the base hostname & protocol for your site
+author:
+#street_address:
+#city: Little Rock
+state: AR
+#zip_code: 55555
+country: United States of America
+#phone: (716) 555-5555
 
-# Build settings
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: https://gitlab.com/u/matrix8967
+googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
 
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
-
-# Links to include in menu navigation
-links:
-  section_1:
-    - title: home
-      url: /
-      key_trigger: 1
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-  section_2:
-    - title: github
-      url: http://www.gitlab.com/matrix8967
-      new_tab: true
-      key_trigger: g
-    - title: twitter
-      url: http://www.twitter.com/matrix8967
-      key_trigger: t
-    - title: search
-      url: ""
-      key_trigger: s #WARNING: search only works with "s"
-
-# projects in header index
-projects:
-  - name: Segmentation_Fault
-    url: https://gitlab.com/newyearstudios/ritual-jam
-  - name: Scripts
-    url: https://gitlab.com/matrix8967/scripts
-  - name: EFA-LR
-    url: https://github.com/matrix8967/EFA-LittleRock
-
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+sass:
+  style: compressed
