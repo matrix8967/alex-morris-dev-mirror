@@ -1,0 +1,9 @@
+[user]
+	email = matrix8967@protonmail.com
+	name = Matrix8967
+[tag]
+	forceSignAnnotated = true
+[commit]
+	gpgSign = true
+[gpg]
+	program = /home/matrix/.gnupg/pubring.kbx
