@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+description: "Look for the helpers..."
 nav-menu: true
 ---
 
