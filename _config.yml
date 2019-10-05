@@ -11,7 +11,7 @@ city: Little Rock
 state: AR
 #zip_code: 55555
 country: United States of America
-phone: Leavin' Robo Callers on read.
+phone: Leavin' Robocallers on read.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
