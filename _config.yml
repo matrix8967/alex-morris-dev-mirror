@@ -1,13 +1,13 @@
 # site settings
-title: 👋 Alex Morris
-subtitle: I just wanna find what I love, and have it make me too big for my clothes.
+title: 👋 AlexMorris.dev
+subtitle: Open Sourcerer
 email: hey@mainframe.computer
-description: Guess there's nothing more elusive than obvious facts...
+description: Give me pieces of paper, and I will type things for you endlessly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 #street_address:
-#city: Little Rock
+city: Little Rock
 state: AR
 #zip_code: 55555
 country: United States of America
@@ -15,12 +15,12 @@ country: United States of America
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings
 #500px_url:
-facebook_url:
-github_url:
+#facebook_url:
+#github_url:
 gitlab_url: https://gitlab.com/u/matrix8967
 mastodon_url: https://mastodon.social/@matrix8967
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
