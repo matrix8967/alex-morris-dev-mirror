@@ -2,7 +2,7 @@
 layout: post
 title: ~$ whoami
 description: About Me.
-image:
+image: assets/images/sortaface.jpg
 nav-menu: true
 ---
 

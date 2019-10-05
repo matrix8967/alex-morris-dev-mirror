@@ -1,6 +1,6 @@
 ---
-# title: Projects
-layout: page
+title: Projects
+layout: post
 description: 'Guess there's nothing more elusive than obvious facts...'
 image: assets/images/bobby.jpg
 nav-menu: true
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>projects</h1>
 		</header>
 
 Proof is in the pudding.
