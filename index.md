@@ -7,5 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-If I ever accidentally have a kid, I'm going to name them Lorem Ipsum.
