@@ -14,8 +14,8 @@ country: United States of America
 phone: Leavin' Robocallers on read.
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 5
 
 # social settings
 #500px_url:
