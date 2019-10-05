@@ -2,7 +2,7 @@
 layout: post
 title: Experience
 description: "Look for the helpers..."
-image: assets/images/bobby.jpg
+image: assets/images/tux.png
 nav-menu: true
 ---
 
