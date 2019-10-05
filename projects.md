@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Projects
-description:
+description: 
 image: assets/images/Seg_Fault1.png
 nav-menu: true
 ---

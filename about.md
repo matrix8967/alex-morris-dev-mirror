@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Me.
+title: About Me
 description: ~$ whoami
 image: assets/images/sortaface.jpg
 nav-menu: true

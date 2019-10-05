@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experience
-description:
+description: 
 image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
 ---
