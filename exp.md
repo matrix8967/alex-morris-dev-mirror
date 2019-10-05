@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Experience
 description: "Look for the helpers..."
 image: assets/images/bobby.jpg
