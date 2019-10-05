@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Experience</h1>
+			<h1></h1>
 		</header>
 
 I hate progress bars, so I'm just going to divide this up into some categories.
