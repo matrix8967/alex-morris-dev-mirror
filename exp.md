@@ -22,55 +22,6 @@ I hate progress bars, so I made a "skill tree" to keep my false sense of superio
 
 I've included a few bonus flaws and shortcomings on the bottom of the list. I feel like it's important in any new relationship to no try to hide your flaws and setup a false standard out of the gate. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me.
 
-```
-Expert
-    │
-    ├─Linux System Administration.
-    │ └─ Debian/Redhat.
-    │
-    ├─Network Administration.
-    │
-    ├─Virtualization.
-    │ └─ KVM/Qemu, VMWare, Hyper-V.
-    │
-    ├──Cloud Infrastructure.
-    │
-    └──Netsec Tryhard.
-
-Journeyman
-    │
-    ├─Containerization.
-    │ └─ K8s, LXC, Docker.
-    │
-    ├─Infrastructure as Code.
-    │ └─ Packer, Terraform, Chef, Ansible.
-    │
-    ├─Data Assurance.
-    │
-    └─Git.*
-
-Novice
-    │
-    └─Traditional Programmatic Work.
-      └─ Python, Ruby, Golang.
-
-Reluctant
-    │
-    ├─Microsoft Administration
-    │ └─ Active Directory, SCCM, Server 2003->2016.
-    │
-    └─OSX Administration
-      └─ MDM (Jamf/Filewave) Apple Business Manager, VPP, and DEP.
-
-I Need An Adult
-    │
-    ├─Textbook over thinker.
-    │
-    ├─Textbook over explainer.
-    │
-    ├─Textbook ADD.
-    │
-    └─I repeat myself a lot. And I overshare. My default loglevel is really high.
-```
+<script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async></script>
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
