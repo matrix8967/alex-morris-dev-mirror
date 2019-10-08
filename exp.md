@@ -6,17 +6,21 @@ image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
 ---
 
-When I graduated highschool, I said that I would never go back, even if they paid me. They said they would pay me, and I went back immediately.
+When I graduated highschool, I said that I would never go back, even if they paid me. Once they said they would pay me, and I went back immediately.
 
-From 2009 until 2013 I worked at Sheridan School District, where I graduated from. This was mostly breakfix/helpdesk IT.
+From 2009 until 2013 I worked at Sheridan School District (where I graduated from.) This was mostly breakfix/helpdesk IT.
 
-From 2013 until 2018 I worked at Bryant School District, where I did not graduate from. This was Server Administration work.
+From 2013 until 2018 I worked at Bryant School District (where I did not graduate from.) This was Server Administration work.
 
 From 2018 until now I work at a startup in Little Rock. This is a combination of job titles - DevOps, Network Engineer, SysAdmin.
 
-All of these jobs be summarized as "Technology Crisis Manager."
+All of my past jobs could be summarized as "Technology Crisis Manager."
 
 I'd love to work somewhere that focuses on Open Source technology in a meaningful sense.
+
+I hate progress bars, so I made a "skill tree" to keep my false sense of superiority of Résumé layouts. I'm also a big fan of just good old fashioned plain text.
+
+I've included a few bonus flaws and shortcomings on the bottom of the list. I feel like it's important in any new relationship to no try to hide your flaws and setup a false standard out of the gate. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me.
 
 ```
 Expert
@@ -41,7 +45,9 @@ Journeyman
     ├─Infrastructure as Code.
     │ └─ Packer, Terraform, Chef, Ansible.
     │
-    └─Data Assurance.
+    ├─Data Assurance.
+    │
+    └─Git.*
 
 Novice
     │
@@ -66,3 +72,5 @@ I Need An Adult
     │
     └─I repeat myself a lot. And I overshare. My default loglevel is really high.
 ```
+
+`*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a gitlab site...
