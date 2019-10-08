@@ -6,8 +6,6 @@ image: assets/images/Seg_Fault1.png
 nav-menu: true
 ---
 
-<a href="https://gitlab.com/matrix8967/scripts">Scripts</a>
-
 <a href="https://gitlab.com/newyearstudios/ritual-jam">Segmentation_Fault</a> is a game I made as part of <a href="https://www.newyearstudios.com/">newyear studios.</a> This was our first title to work on together, and my first time doing any start-to-finish programmatic work. I learned a lot through the crucible of troubleshooting, and hindsight. Feel free to fork it, clone it, or do what you like. :) Newyear Studios also has plenty of other open source game development assets available. We strive to create quality open source content to share with others and better the FOSS community.
 
 <a href="https://gitlab.com/matrix8967/alexmorris.dev">alexmorris.dev</a> Whoa recursion! 🤯 You can see all the code, commits, and build status for this site on Gitlab. Signed Commits by default. 👍 I need to reset the head to be from the upstream project though.
