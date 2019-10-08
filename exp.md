@@ -73,4 +73,4 @@ I Need An Adult
     └─I repeat myself a lot. And I overshare. My default loglevel is really high.
 ```
 
-`*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a gitlab site...<a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
+`*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
