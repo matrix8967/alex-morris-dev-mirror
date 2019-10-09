@@ -1,7 +1,7 @@
 # site settings
 title: 👋 AlexMorris.dev
 subtitle: 🧙 Open Sourcerer
-email: hey@mainframe.computer
+email: &#104;&#101;&#121;&#064;&#109;&#097;&#105;&#110;&#102;&#114;&#097;&#109;&#101;&#046;&#099;&#111;&#109;&#112;&#117;&#116;&#101;&#114;
 description: Give me pieces of paper, and I will type things for you endlessly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
