@@ -7,7 +7,7 @@ nav-menu: true
 ---
 > Hey kid! I'm a computer!
 
-When I graduated highschool, I said that I would never go back, even if they paid me. Once they said they would pay me, and I went back immediately.
+When I graduated highschool, I said that I would never go back, even if they paid me. After they said they would pay me, I went back immediately.
 
 I graduated from Sheridan School District in 2007 and from 2009 -> 2013 I worked as tier 1 IT.
 
@@ -19,7 +19,7 @@ I guess all of my past jobs could be summarized as "Technology Crisis Manager."
 
 I'd love to work somewhere that focuses on Open Source technology in a meaningful sense.
 
-I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testimate to over engineering, so here's the <a href="assets/text/Résumé.txt">plain text</a> if you want to cut the bullshit or you use arch btw.
+I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut the bullshit or you use arch btw.
 
 I've included a few bonus flaws and shortcomings on the bottom of the list. I feel like it's important in any new relationship to not set up a false standard. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me.
 
