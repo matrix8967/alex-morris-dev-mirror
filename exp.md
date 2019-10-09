@@ -20,8 +20,8 @@ I'd love to work somewhere that focuses on Open Source technology in a meaningfu
 
 I hate progress bars, so I made a "skill tree" to keep my false sense of superiority of Résumé layouts.
 
-I've included a few bonus flaws and shortcomings on the bottom of the list. I feel like it's important in any new relationship to no try to hide your flaws and setup a false standard out of the gate. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me.
+I've included a few bonus flaws and shortcomings on the bottom of the list. I feel like it's important in any new relationship to not try to hide your flaws by setting up a false standard. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me.
 
-<script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async data-size="medium"></script>
+<script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async data-size="medium" data-theme="solarized-dark" cols="25" rows="25"></script>
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
