@@ -6,6 +6,8 @@ image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
 ---
 
+> Hey kid! I'm a computer!
+
 When I graduated highschool, I said that I would never go back, even if they paid me. Once they said they would pay me, and I went back immediately.
 
 I graduated from Sheridan School District in 2007. From 2009 -> 2013 I worked mostly as breakfix and helpdesk IT.
@@ -24,6 +26,6 @@ I've included a few bonus flaws and shortcomings on the bottom of the list. I fe
 
 <!-- <script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async data-size="medium" data-theme="solarized-dark" cols="25" rows="25"></script> -->
 
-<script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async data-size="small" cols="25" rows="25"></script>
+<script id="asciicast-0mN0gmOyqJQ5BFrVaHr6BVj6O" src="https://asciinema.org/a/0mN0gmOyqJQ5BFrVaHr6BVj6O.js" async data-size="small" cols="25" rows="15"></script>
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
