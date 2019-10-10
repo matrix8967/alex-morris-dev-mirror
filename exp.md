@@ -7,7 +7,7 @@ nav-menu: true
 ---
 > Hey kid! I'm a computer!
 
-When I graduated highschool, I said that I would never go back, even if they paid me. They said they would pay me, I went back immediately.
+When I graduated highschool, I said that I would never go back, even if they paid me. They said they would pay me, and I went back immediately.
 
 I graduated from Sheridan School District in 2007(‡) and from 2009 -> 2013 I worked as Tier-01 IT.
 
@@ -27,4 +27,4 @@ I've included a few bonus flaws and shortcomings on the bottom of the list. I fe
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
 
-`‡` From 2007 until 2009, I attended and dropped out of Community College. Robert Frost said "Don't cut what you can't untie" but that dude wasn't staring down the barrel of a student loan crisis. When I find myself in a hole; I quit digging. Also during this time, I was the worlds worst printer salesman at Office Depot. No, you don't need to buy an accidental protection plan for your printer. What're you taking your printer to the lake this weekend? C'mon. 
+`‡` From 2007 until 2009, I attended and dropped out of Community College. Robert Frost said "Don't cut what you can't untie" but that dude wasn't staring down the barrel of a student loan crisis. When I find myself in a hole; I quit digging. Also during this time, I was the worlds worst printer salesman at Office Depot. No, you don't need to buy an accidental protection plan for your printer. What're you taking your printer to the lake this weekend? C'mon.
