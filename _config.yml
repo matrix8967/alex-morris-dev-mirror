@@ -2,7 +2,7 @@
 title: 👋 AlexMorris.dev
 subtitle: 🧙 Open Sourcerer
 email: hey@mainframe.computer
-description: Give me pieces of paper, and I will type things for you endlessly. 👨‍💻 
+description: Give me pieces of paper, and I will type things for you endlessly. 👨‍💻
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Little Rock
 state: AR
 #zip_code: 55555
 country: United States of America
-phone: Leavin' Robocallers on read.
+#phone: Leavin' Robocallers on read.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
