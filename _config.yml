@@ -6,7 +6,7 @@ description: Give me pieces of paper, and I will type things for you endlessly. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: user@localhost:~$
+street_address: localhost
 city: Little Rock
 state: AR
 #zip_code: 55555
