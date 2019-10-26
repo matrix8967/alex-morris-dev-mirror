@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 description: ~$ whoami
 image: assets/images/sortaface.jpg
