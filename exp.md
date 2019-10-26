@@ -4,6 +4,7 @@ title: Experience
 description: ~$ history | grep "work" > Résumé.txt
 image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
+show_tile: true
 ---
 > Hey kid! I'm a computer!
 
