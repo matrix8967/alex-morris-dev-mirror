@@ -2,7 +2,7 @@
 layout: post
 title: Projects
 description:
-image: assets/images/Seg_Fault1.png
+image: assets/images/Seg_Fault1.jpg
 nav-menu: true
 ---
 
