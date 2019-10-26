@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Projects
 description: The code equivalent of macaroni art.
 image: assets/images/Seg_Fault1.jpg

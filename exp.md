@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Experience
 description: ~$ history | grep "work" > Résumé.txt
 image: assets/images/Glitch_Upgrade.jpg
