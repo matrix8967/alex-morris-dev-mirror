@@ -4,6 +4,7 @@ title: Projects
 description: The code equivalent of macaroni art.
 image: assets/images/Seg_Fault1.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <a href="https://gitlab.com/newyearstudios/ritual-jam">Segmentation_Fault</a> is a game I made as part of <a href="https://www.newyearstudios.com/">newyear studios.</a> This was our first title to work on together, and my first time doing any start-to-finish programmatic work. I learned a lot through the crucible of troubleshooting, and hindsight. Feel free to fork it, clone it, or do what you like. Feedback is also very important. :) Newyear Studios also has plenty of other open source game development assets available. We strive to create quality open source content to share with others and better the FOSS community.
