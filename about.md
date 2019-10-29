@@ -19,7 +19,7 @@ At an early age - the magic of a computer, and the internet was instilled in me.
 An internet where:
   * Women could be treated as peers and equals under the cloak of anonymity.
   * Men were unbound from the chains of traditional masculinity and loudly exclaim: "19/f/cali."
-  * Large Corporations were still trying to find their footing on the Information Super Highway, instead of turning it into a Panopticon.
+  * Large Corporations were still trying to find their footing on the Information Super Highway, instead of turning it into a <a href="https://en.wikipedia.org/wiki/Panopticon">Panopticon</a>.
 
 These early experiences with technology shaped who I am today. (Which is a 30 year old man, sitting next to a custom built super computer, writing text into a terminal occupying 3.5mb of ram.)
 
