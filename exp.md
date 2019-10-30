@@ -16,7 +16,7 @@ I'd love to work somewhere that focuses on Open Source technology in a meaningfu
 
 I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut the bullshit and `curl` it into your shell, or you use arch btw.
 
-<script id="asciicast-M9nj4oBfEID3yF4nJnYC2B1O2" src="https://asciinema.org/a/M9nj4oBfEID3yF4nJnYC2B1O2.js" async></script>
+<script id="asciicast-K36uiebmHbZrnTC8k1LzF3E80" src="https://asciinema.org/a/K36uiebmHbZrnTC8k1LzF3E80.js" async></script>
 
 I've included a few flaws and shortcomings on the bottom of the Tree. I feel it's important to not set up a false standard in any new relationship. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me. `¯\_(ツ)_/¯`
 
