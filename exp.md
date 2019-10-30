@@ -12,13 +12,12 @@ When I graduated highschool, I said I would never go back, even if they paid me.
 
 From 2018 until now I've been working at a startup in Little Rock. This is a combination of job titles that changes every hour or so depending on what's happening or not happening that day: DevOps, Network Engineer, SysAdmin, CertBot, Technology Crisis Manager. My latest project was quietly re-rolling our core network infrastructure. I know it sounds lame. But it was a really rewarding experience for everyone to come in on that Monday, and have no idea anything had changed. I'm kind of a flight-risk when it comes to the spotlight. I've also developed a couple of other projects to help keep the wheels on the bus.
 
-I'd love to work somewhere that focuses on Open Source technology in a meaningful sense.
+I'd love to work somewhere that focuses on Free and Open Source Technology in a <a href="https://alexmorris.dev/about.html">meaningful sense</a>.
 
 I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut the bullshit and `curl` it into your shell, or you use arch btw.
 
-<script id="asciicast-K36uiebmHbZrnTC8k1LzF3E80" src="https://asciinema.org/a/K36uiebmHbZrnTC8k1LzF3E80.js" async></script>
+<script id="asciicast-K26xxoYMwwVNr95XqCBaiC3wU" src="https://asciinema.org/a/K26xxoYMwwVNr95XqCBaiC3wU.js" async></script>
 
-I've included a few flaws and shortcomings on the bottom of the Tree. I feel it's important to not set up a false standard in any new relationship. That way nobody's disappointed in six months when you slouch back into being your regular self. I like regular me. `¯\_(ツ)_/¯`
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
 
