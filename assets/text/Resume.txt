@@ -4,48 +4,40 @@
  ___/ / ,< / / / /_____/ / / /  /  __/  __/
 /____/_/|_/_/_/_/     /_/ /_/   \___/\___/
 
-Expert
-    │
-    ├─Linux System Administration.
-    │ ├─ Virtualization.
-    │ │  └─ LXC, LXD, KVM, Qemu.
-    │ │
-    │ └─ Storage Solutions.
-    │    └─ ZFS, CEPH, BRTFS, LUKS/Geli Encryption, Hot/Cold Storage, RAID.
-    │
-    └─ Network Engineering.
-       └─ Cabling, Routing, Switching, Trunking, Subnetting, VPNs, DNS, DHCP. PCAP or it didn't happen.
+  Expert
+  │
+  ├─Linux System Administration.
+  │ ├─ Virtualization.
+  │ │  └─ LXC, LXD, KVM, Qemu.
+  │ │
+  │ └─ Storage Solutions.
+  │    └─ ZFS, CEPH, BRTFS, LUKS/Geli Encryption, Hot/Cold Storage, RAID.
+  │
+  └─ Network Engineering.
+     └─ Cabling, Routing, Switching, Trunking, Subnetting, VPNs, DNS, DHCP. PCAP or it didn't happen.
 
 Journeyman
-    │
-    ├─Containerization.
-    │ └─ K8s, Docker.
-    │
-    ├─Infrastructure as Code.
-    │ └─ Packer, Terraform, Chef, Ansible.
-    │
-    ├─NetSec.
-    │ └─ Currently enrolled in PWK. No Metasploit until OSCP, that's what I always say.
-    │
-    └─Git.*
+  │
+  ├─ Containerization.
+  │  └─ K8s, Docker.
+  │
+  ├─ Infrastructure as Code.
+  │  └─ Packer, Terraform, Chef, Ansible.
+  │
+  ├─ NetSec.
+  │  └─ Currently enrolled in PWK. No Metasploit until OSCP, that's what I always say.
+  │
+  └─ Git.*
 
-Novice
-    │
-    └─Traditional Programmatic Work.
-      └─ Python, Ruby, Golang. BASH, but that's kinda cheating?
+  Novice
+  │
+  └─ Traditional Programmatic Work.
+     └─ Python, Ruby, Golang. BASH, but that's kinda cheating?
 
-Reluctant/Upsetting.
-    │
-    ├─Microsoft Administration
-    │ └─ Active Directory, SCCM, Server 2003->2016.
-    │
-    └─OSX Administration
-      └─ MDM (Jamf/Filewave) Apple Business Manager, VPP, and DEP.
-
-I Need An Adult
-    │
-    ├─Textbook over thinker. Textbook over explainer.
-    │
-    ├─I repeat myself a lot.
-    │
-    └─My default loglevel is really high.
+  Good But Not as Fun
+  │
+  ├─ Microsoft Administration
+  │  └─ Active Directory, SCCM, Server 2003->2016.
+  │
+  └─ MacOS/ios Administration
+     └─ MDM (Jamf/Filewave) Apple Business Manager, VPP, and DEP.
