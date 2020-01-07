@@ -16,7 +16,7 @@ I'd love to work somewhere that focuses on Free and Open Source Technology in a 
 
 I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut the bullshit and `curl` it into your shell, or you use arch btw.
 
-<script id="asciicast-mZ2Ihs3mxJXvt4PYMwojAAia5" src="https://asciinema.org/a/mZ2Ihs3mxJXvt4PYMwojAAia5.js" async data-autoplay=0 data-preload=0 data-t=03 ></script>
+<script id="asciicast-1dpZplOOsFVEUCZl0zbfgxvZx" src="https://asciinema.org/a/1dpZplOOsFVEUCZl0zbfgxvZx.js" async></script>
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
 
