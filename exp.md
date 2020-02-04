@@ -6,7 +6,7 @@ image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
 show_tile: true
 ---
-> Hey kid! I'm a computer! - GI Joe PSA, circa 2006.
+> Glamour Shot.
 
 # 🧗‍♂️ Employment Journey:
 When I graduated highschool, I said I would never go back, even if they paid me. They said they would pay me, and I went back immediately. I graduated from Sheridan School District in 2007(‡) and from 2009 -> 2013 I worked as Tier-01 IT. While I did not graduate from Bryant School District, I did work there from 2013 -> 2018. This is where I really came into my own as a Linux Systems Engineer. My Magnum Opus was building a KVM/Qemu VM Cluster using ProxMox to migrate our aging and expensive VMWare hardware to something more sustainable, free, and lacking VMWare's charming Vendor Lock in.
@@ -14,26 +14,24 @@ When I graduated highschool, I said I would never go back, even if they paid me.
 Since July of 2018 I've worked at a start up in Little Rock. My job title changes every hour or so depending on what's happening (or not happening) that day: DevOps, Network Engineer, SysAdmin, CertBot, Technology Crisis Manager, Emotional Support Consulate.
 
 # 🏆 Accomplishments:
-This is a terse and abridged version of some of my work in 2019:
+This is a terse version of some of my recent work in 2019:
 
 * Scaled and automated SSL Cert Generation and Renewals.
 * Refactored LAN infrastructure with `0` outages or downtime (during business hours.)
-* Discovered and patched security issues in our products.
-* Setup automated security scanning of infrastructure.
-* Helped insure privacy and compliance for internal communications.
+* Helped ensure privacy and compliance for internal communications.
 * Established and maintained our Inventory System.
-* Helped and lead Recovery from production AWS disasters.
-* Maintained and helped scale AWS infrastructure to meet unyielding growth.
-* Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
-* Published in the Q1 2020 issue of `2600: The Hacker Quarterly`.
+* Helped and lead recovery from production AWS disasters.
+* Maintained and helped to scale AWS infrastructure to meet unyielding growth.
 * I got an [award](https://www.instagram.com/p/B27RWEcA7il/) for being a super nice dude.
 
 Here are some professional projects I'm currently working on:
 
-* Creating Ansible Playbooks to remediate issues with the last of our 1st generation cloud infrastructure.
+* Making more `effective` use of my time instead of measuring an illusion of productivity.
+* Further automating workflows and processes. (Currently this is  focused on storage and data shipping.)
+* Creating Ansible Playbooks to remediate issues with some unwieldy parts of our infrastructure.
 * Setup Keybase's SSH Key Chatbot to roll certs in  a faster and easier way.
-* Setup/create more bots for alerts to slack, but also more than slack if it's a big deal.
-* Planning and building our Medium-Business grade on site Data Center for our new office. :)
+* Setup/create more bots for alerting and other jobs. "ChatOps" but focused more with Keybase.
+* Planning and building our Enterprise grade on site Data Center. :)
 
 Here are a few personal projects I'm working on to better myself, my work, and my community:
 
@@ -43,6 +41,9 @@ Here are a few personal projects I'm working on to better myself, my work, and m
 * Doing more volunteer work with the Mozilla Community.
 * Setting up better insights into my personal network's infrastructure, such as Grafana, ELK, and Graylog.
 * A never ending list of consoles or devices to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
+* Published in the Q1 2020 issue of `2600: The Hacker Quarterly`.
+* Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
+
 
 # 📍 Specifics:
 
@@ -52,7 +53,7 @@ I hate progress bars, so I made a "skill tree" to keep my false sense of superio
 <script id="asciicast-1dpZplOOsFVEUCZl0zbfgxvZx" src="https://asciinema.org/a/1dpZplOOsFVEUCZl0zbfgxvZx.js" async></script>
 </div>
 
-I'd love to work somewhere that focuses on Free and Open Source Technology in a <a href="https://alexmorris.dev/about.html">meaningful sense</a>.
+I'd love to work somewhere that focuses on Free and Open Source Technology in a <a href="https://alexmorris.dev/about.html">meaningful sense</a>. I'm not looking for a job as much as I'm looking for a way to sustain my calling.
 
 `*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
 
