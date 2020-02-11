@@ -39,9 +39,9 @@ Here are a few personal projects I'm working on to better myself, my work, and m
 * Ending my abusive relationship with Slack, and other productivity valleys to do more focused work.
 * Researching local and community "Surveillance Economy" issues like ShotSpotter, and Automatic License Plate Scanners.
 * Doing more volunteer work with the Mozilla Community.
-* Setting up better insights into my personal network's infrastructure, such as Grafana, ELK, and Graylog.
+* Setting up better insights into my personal network's infrastructure, [such as Grafana](https://mastodon.social/@matrix8967/103640872967140961), ELK, and Graylog.
 * A never ending list of consoles or devices to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
-* Published in the Q1 2020 issue of `2600: The Hacker Quarterly`.
+* Published in the Q1 2020 issue of [2600: The Hacker Quarterly.](https://store.2600.com/products/winter-2019-2020)
 * Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
 
 
