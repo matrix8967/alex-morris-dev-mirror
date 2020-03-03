@@ -33,7 +33,7 @@ Here are some professional projects I'm currently working on:
 * Planning and building our Enterprise grade Network for our future office.
 * Creating Ansible Playbooks to remediate issues with some unwieldy parts of our infrastructure.
 * Setup Keybase's SSH Key Chatbot to roll certs in  a faster, easier, and more secure way.
-* Over all making more `effective` use of my time instead of measuring an illusion of productivity.
+* Over all making more `effective` use of my time instead of measuring `productivity.`
 
 Here are a few personal projects I'm working on to better myself, my work, and my community:
 
@@ -48,7 +48,7 @@ Here are a few personal projects I'm working on to better myself, my work, and m
 
 # 📍 Specifics:
 
-I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut the bullshit and `curl` it into your shell, or you use arch btw.
+I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut to the chase and `curl` it into your shell, or you use arch btw.
 
 <div align="center">
 <script id="asciicast-1dpZplOOsFVEUCZl0zbfgxvZx" src="https://asciinema.org/a/1dpZplOOsFVEUCZl0zbfgxvZx.js" async></script>
