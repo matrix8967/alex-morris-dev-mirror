@@ -2,7 +2,7 @@
 title: 👋 AlexMorris.dev
 subtitle: 🧙 Open Sourcerer
 email: hey@alexmorris.dev
-description: Give me pieces of paper, and I will type things for you endlessly. 👨‍💻
+description: Give me pieces of paper, and I will type things into a termainal for you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -27,7 +27,7 @@ gitlab_url: https://gitlab.com/matrix8967
 #linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 #pinterest_url:
 #slack_url:
-twitter_url: https://mastodon.social/@matrix8967
+mastodon_url: https://mastodon.social/@matrix8967
 
 # build settings
 markdown: kramdown
