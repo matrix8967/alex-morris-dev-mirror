@@ -9,7 +9,9 @@ show_tile: true
 > Glamour Shot.
 
 # 🧗‍♂️ Employment Journey:
-When I graduated highschool, I said I would never go back, even if they paid me. They said they would pay me, and I went back immediately. I graduated from Sheridan School District in 2007(‡) and from 2009 -> 2013 I worked as Tier-01 IT. While I did not graduate from Bryant School District, I did work there from 2013 -> 2018. This is where I really came into my own as a Linux Systems Engineer. My Magnum Opus was building a KVM/Qemu VM Cluster using ProxMox to migrate our aging and expensive VMWare hardware to something more sustainable, free, and lacking VMWare's charming Vendor Lock in.
+When I graduated highschool, I said I would never go back, even if they paid me. They said they would pay me, and I went back immediately. I graduated from Sheridan School District in 2007(‡) and from 2009 -> 2013 I worked as Tier-01 IT. While I did not graduate from Bryant School District, I did work there from 2013 -> 2018. This is where I really came into my own as a Linux Systems Engineer. My Magnum Opus was building a KVM/Qemu VM Cluster using ProxMox to migrate our aging and expensive VMWare hardware to something more sustainable, free, and lacking VMWare's Vendor Lock-In. Public Funds should yield Public Code.
+
+While working in schools, I established an After-School Network Security Club for students to expand or start their journey in a legal and responsible sandbox. This allowed students to be more adventurous and creative when coming up with solutions, while encouraging a culture of openness and curiosity.
 
 Since July of 2018 I've worked at a start up in Little Rock. My job title changes every hour or so depending on what's happening (or not happening) that day: DevOps, Network Engineer, SysAdmin, CertBot, Technology Crisis Manager, Emotional Support Consulate.
 
@@ -17,32 +19,31 @@ Since July of 2018 I've worked at a start up in Little Rock. My job title change
 This is a terse version of some of my recent work in 2019:
 
 * Scaled and automated SSL Cert Generation and Renewals.
-* Refactored LAN infrastructure with `0` outages or downtime (during business hours.)
-* Helped ensure privacy and compliance for internal communications.
+* Refactored LAN Infrastructure with `0` outages or downtime.
+* Helped ensure privacy and compliance for internal communications using FOSS tools.
 * Established and maintained our Inventory System.
 * Helped and lead recovery from production AWS disasters.
 * Maintained and helped to scale AWS infrastructure to meet unyielding growth.
-* I got an [award](https://www.instagram.com/p/B27RWEcA7il/) for being a super nice dude.
+* Published in the Q1 2020 issue of [2600: The Hacker Quarterly](https://store.2600.com/products/winter-2019-2020) on Student Privacy issues.
+* Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
+* I also got an [award](https://www.instagram.com/p/B27RWEcA7il/) for being a super nice dude.
 
 Here are some professional projects I'm currently working on:
 
-* Making more `effective` use of my time instead of measuring an illusion of productivity.
-* Further automating workflows and processes. (Currently this is  focused on storage and data shipping.)
+* Planning and building our Enterprise grade Network for our future office.
 * Creating Ansible Playbooks to remediate issues with some unwieldy parts of our infrastructure.
-* Setup Keybase's SSH Key Chatbot to roll certs in  a faster and easier way.
-* Setup/create more bots for alerting and other jobs. "ChatOps" but focused more with Keybase.
-* Planning and building our Enterprise grade on site Data Center. :)
+* Setup Keybase's SSH Key Chatbot to roll certs in  a faster, easier, and more secure way.
+* Over all making more `effective` use of my time instead of measuring an illusion of productivity.
 
 Here are a few personal projects I'm working on to better myself, my work, and my community:
 
+* Setup my own NextCloud server to host my own Cloud Storage and Productivity Suite.
+* Started working on a 2nd FOSS Game in the GoDot Engine.
 * Creating useful, actionable Privacy/Security education materials for local organizations serving "at-risk" clients such as shelters and harm reduction centers.
-* Ending my abusive relationship with Slack, and other productivity valleys to do more focused work.
-* Researching local and community "Surveillance Economy" issues like ShotSpotter, and Automatic License Plate Scanners.
+* Researching local community "Surveillance Economy" issues like ShotSpotter, and Automatic License Plate Scanners.
 * Doing more volunteer work with the Mozilla Community.
 * Setting up better insights into my personal network's infrastructure, [such as Grafana](https://mastodon.social/@matrix8967/103640872967140961), ELK, and Graylog.
 * A never ending list of consoles or devices to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
-* Published in the Q1 2020 issue of [2600: The Hacker Quarterly.](https://store.2600.com/products/winter-2019-2020)
-* Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
 
 
 # 📍 Specifics:
