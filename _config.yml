@@ -27,7 +27,7 @@ gitlab_url: https://gitlab.com/matrix8967
 #linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 #pinterest_url:
 #slack_url:
-twitter_url: https://mastodon.social/@matrix8967
+mastodon_url: https://mastodon.social/@matrix8967
 
 # build settings
 markdown: kramdown
