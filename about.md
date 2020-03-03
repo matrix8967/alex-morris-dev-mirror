@@ -27,7 +27,7 @@ I'm an often outspoken FOSS and Privacy Advocate and a Slayer of Privacy Nihilis
 
 Most recently I was published in the <a href="https://store.2600.com/products/winter-2019-2020">Winter 2019/2020 Issue of 2600: The Hacker Quarterly</a> on the same topic. This was a childhood dream come true. Seeing my words in a publication that means so much to me is surreal. Shame that it had to be for something so bleak. But there's no virtue in not knowing.
 
-I think if a system was paid for with public funds -- it should run public code. I'm a life long advocate for self hosting. I believe that End-to-End Encrypted *AND* Federated/Zero Knowledge services are only going to become more prevalent in the future. Services like TOR, Firefox, Matrix.org, Signal, ProtonMail, NextCloud, and Keybase, are already showing the growing trend for Privacy as a Right and not "Surveillance as an Economy."
+I'm a life long advocate for self hosting. I believe that End-to-End Encrypted *AND* Federated/Zero Knowledge services are going to become more and more prevalent in the years to come. Services like TOR, Firefox, Matrix.org, Signal, ProtonMail, NextCloud, and Keybase, are already showing the growing trend for Privacy as a Right and not "Surveillance as an Economy."
 
 Hunter S. Thompson once said: "If you're going to be crazy, you have to get paid for it or else you're going to be locked up." So outside of trying to turn my anxiety into a career for myself, I also enjoy video games, music, hacking, homebrew (software +/- beer), gallows humor, rain on the roof, the fourth amendment, books, going all in, and anything honest.
 
