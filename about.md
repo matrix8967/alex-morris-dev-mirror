@@ -31,6 +31,6 @@ I think if a system was paid for with public funds -- it should run public code.
 
 Hunter S. Thompson once said: "If you're going to be crazy, you have to get paid for it or else you're going to be locked up." So outside of trying to turn my anxiety into a career for myself, I also enjoy video games, music, hacking, homebrew (software +/- beer), gallows humor, rain on the roof, the fourth amendment, books, going all in, and anything honest.
 
-Nobody ever said the good fight would be easy. I will not wear a wishbone where my backbone should be. I have an ethical and moral responsibility to those I love to build a better future. I always leave things better than you found them, and I intend to do the same for the internet.
+Nobody ever said the good fight would be easy. I will not wear a wishbone where my backbone should be. I have an ethical and moral responsibility to those I love to build a better future. I always leave things better than I found them, and I intend to do the same for the internet.
 
 If that's on brand for you, drop a line.
