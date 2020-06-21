@@ -11,4 +11,4 @@ show_tile: true
 
 <a href="https://gitlab.com/matrix8967/alexmorris.dev">alexmorris.dev</a> Whoa recursion! 🤯 You can see all the code, <a href="https://gitlab.com/matrix8967/alexmorris.dev/commits/master"> (Signed) Commits</a>, and <a href="https://gitlab.com/matrix8967/alexmorris.dev/-/jobs">Watch the CI/CD jobs in real time</a> on Gitlab. 👍
 
-<a href="https://gitlab.com/matrix8967/scripts">Scripts</a> is a repo of (mostly bash) scripts that I try to keep on hand. I've got a way of making any place my own. I distro hop a lot. I'll likely be translating these into Ansible Playbooks as time goes on.
+<a href="https://gitlab.com/matrix8967/scripts">Scripts</a> is the repo for dotfiles, configs, scripts, etc.
