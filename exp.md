@@ -28,7 +28,7 @@ This is a terse summary of my work in 2019:
 * Maintained and helped to scale onsite LAN and AWS infrastructure to meet unyielding growth.
 * Published in the Q1 2020 issue of [2600: The Hacker Quarterly](https://store.2600.com/products/winter-2019-2020) on Student Privacy issues.
 * Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
-* I also got an [award](https://www.instagram.com/p/B27RWEcA7il/) for being a super nice dude.
+* I also got an [award](https://www.instagram.com/p/B27RWEcA7il/) from my peers for being a super nice dude.
 
 Here are some professional projects I'm currently working on:
 
