@@ -7,5 +7,3 @@ image: assets/images/LR.jpeg
 author: null
 show_tile: false
 ---
-
-The code equivalent of macaroni art. 😏
