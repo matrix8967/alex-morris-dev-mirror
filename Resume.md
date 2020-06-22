@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume
+title: Résumé
 description: ~$ curl https://alexmorris.dev/resume.txt
 #image: assets/svgs/Work.svg
 nav-menu: false
