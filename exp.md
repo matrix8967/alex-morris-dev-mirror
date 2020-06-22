@@ -46,17 +46,4 @@ Here are a few personal projects I'm working on to better myself, my work, and m
 * Setting up better insights into my LAN, [such as Grafana](https://mastodon.social/@matrix8967/103640872967140961), ELK, and Graylog.
 * A never ending list of consoles or devices to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
 * ✅️ ~~Setup my own NextCloud server to host my own Cloud Storage and Productivity Suite.~~
-
-<!-- # 📍 Specifics:
-
-I hate progress bars, so I made a "skill tree" to keep my false sense of superiority in Résumé layouts. It's a testament to over engineering, so here's the <a href="assets/text/Resume.txt">plain text</a> if you want to cut to the chase and `curl` it into your shell, or you use arch btw.
-
-<div align="center">
-<script id="asciicast-1dpZplOOsFVEUCZl0zbfgxvZx" src="https://asciinema.org/a/1dpZplOOsFVEUCZl0zbfgxvZx.js" async></script>
-</div>
-
-I'd love to work somewhere that focuses on Free and Open Source Technology in a <a href="https://alexmorris.dev/about.html">meaningful sense</a>. I'm not looking for a job as much as I'm looking for a way to sustain my calling.
-
-`*` Is it still tacky to put Git on a resume in 2019? I figured it's implied since this is a <a href="https://alexmorris.dev/projects.html">gitlab</a> <a href="https://gitlab.com/matrix8967/alexmorris.dev">site...</a>
-
-`‡` From 2007 until 2009, I attended and dropped out of Community College. Robert Frost said "Don't cut what you can't untie" but that dude wasn't staring down the barrel of a student loan crisis. When I find myself in a hole; I quit digging. Also during this time, I was the worlds worst printer salesman at Office Depot. No, you don't need to buy an accidental protection plan for your printer. What're you taking your printer to the lake this weekend? C'mon. -->
+* ✅️ ~~Setup my own Matrix.org Federated chat server with Jitsi Video Conferencing.~~
