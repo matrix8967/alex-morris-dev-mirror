@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experience
-description: ~$ history | grep "work" > Résumé.txt
+description: ~$ history | grep "work" > Work_Experience.txt
 image: assets/images/Glitch_Upgrade.jpg
 nav-menu: true
 show_tile: true
