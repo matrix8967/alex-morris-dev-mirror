@@ -18,14 +18,14 @@ While working in schools, I established an After-School Network Security Club fo
 Since July of 2018 I’ve worked at an education-focused start-up in Little Rock. My job title changes every hour or so depending on what that day holds: DevOps, Network Engineer, SysAdmin, CertBot, Crisis Manager, etc. I'm a jack of all trades, and master of a few of them.
 
 ### 🏆 Accomplishments:
-This is a terse summary of my work in 2019:
+This is a terse summary of some of my recent work:
 
 * Scaled and automated SSL Cert Generation and Renewals.
 * Refactored LAN Infrastructure with `0` service interruptions.
 * Helped ensure privacy and compliance for internal communications using FOSS tools.
 * Established and maintained our Inventory System.
 * Lead recovery from production AWS disasters.
-* Maintained and helped to scale onsite LAN and AWS infrastructure to meet unyielding growth.
+* Maintained and helped to scale onsite LAN _and_ Cloud infrastructure to meet unyielding growth.
 * Published in the Q1 2020 issue of [2600: The Hacker Quarterly](https://store.2600.com/products/winter-2019-2020) on Student Privacy issues.
 * Published in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
 * I also got an [award](https://www.instagram.com/p/B27RWEcA7il/) from my peers for being a super nice dude.
@@ -42,8 +42,8 @@ Here are a few personal projects I'm working on to better myself, my work, and m
 * Creating useful, actionable Privacy/Security education materials for local organizations, and small businesses.
 * Researching local community "Surveillance Economy" issues.
 * Doing more volunteer work with the FOSS Community.
-* Started working on a 2nd FOSS Game in the GoDot Engine.
+* Started working on a 2nd [FOSS Game in the GoDot Engine.](https://mastodon.social/@matrix8967/103746307861989982)
 * Setting up better insights into my LAN, [such as Grafana](https://mastodon.social/@matrix8967/103640872967140961), ELK, and Graylog.
 * A never ending list of consoles or devices to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
 * ✅️ ~~Setup my own NextCloud server to host my own Cloud Storage and Productivity Suite.~~
-* ✅️ ~~Setup my own Matrix.org Federated chat server with Jitsi Video Conferencing.~~
+* ✅️ ~~Setup my own Matrix.org Federated chat server with Jitsi Video Conferencing.~~ [Done!](https://element.mainframe.computer/#/welcome)

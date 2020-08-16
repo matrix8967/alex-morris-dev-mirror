@@ -7,4 +7,4 @@ nav-menu: false
 show_tile: true
 ---
 
-<span class="image fit"><img src="assets/svgs/Work.svg" alt="" /></span>
+<object type="image/svg+xml" data="assets/svgs/Work.svg"></object>
