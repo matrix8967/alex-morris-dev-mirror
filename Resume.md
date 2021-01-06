@@ -7,4 +7,5 @@ nav-menu: false
 show_tile: true
 ---
 
+`~$ curl https://alexmorris.dev/resume.txt`
 <object type="image/svg+xml" data="assets/svgs/Work.svg"></object>

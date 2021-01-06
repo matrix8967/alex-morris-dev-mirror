@@ -38,4 +38,4 @@ When I graduated high-school in 2007 I said I'd never go back even if they paid 
 
 I continued working in K-12 schools for a decade where I focused on Automation, Virtualization, and security using Open Source Tools. (_Public Funds? Public Code._)
 
-I left K12 to work at an Education Software Startup in Little Rock. I began as a Jr. DevOps Engineer, and taken on various roles in our Engineering and Operations Departments. I'm currently transitioning into a new role as _Network Security Engineer_, but I'll answer to anything.
+I left K12 to work at an Education Software Startup in Little Rock. I began as a DevOps Engineer, and I've taken on various roles in our Engineering and Operations Departments. I'm currently transitioning into a new role as _Network Security Engineer_, but I'll answer to anything.
