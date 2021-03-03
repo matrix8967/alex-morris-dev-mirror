@@ -12,13 +12,15 @@
   ├─ Network & Systems Engineering:
   │  │
   │  ├─ Systems Engineering:
-  │  │  ├─ LXC, LXD, KVM, Qemu, Docker.
+  │  │  ├─ LXC, LXD, KVM, Qemu, Docker, K8s.
   │  │  ├─ Bash Scripting & Automation.
+  │  │  ├─ Hybrid Cloud: Linode, Vultr, AWS, GCP.
   │  │  └─ Ansible, Terraform, & Configuration Mgmt.
   │  │
   │  └─ Network Engineering:
-  │     ├─ Cabling, Routing, Switching, Trunking, Subnetting, VPNs, DNS, DHCP.
-  │     └─ Storage and Encryption: ZFS, LUKS, GELI, LVMs, Hot/Cold Storage.
+  │     ├─ Cabling, Routing, Switching, Trunking, Subnetting, DNS, DHCP.
+  │     ├─ VPNs & Proxies: Wireguard, OpenVPN, Nginx, Caddy.
+  │     └─ Storage and Encryption: ZFS, LFS, LUKS, GELI.
   │
   └─ Activism & Publications:
      │
