@@ -11,6 +11,8 @@ show_tile: true
 
 <a href="https://gitlab.com/matrix8967/alexmorris.dev">alexmorris.dev</a> Whoa recursion! 🤯 You can see all the code, <a href="https://gitlab.com/matrix8967/alexmorris.dev/commits/master"> (Signed) Commits</a>, and <a href="https://gitlab.com/matrix8967/alexmorris.dev/-/jobs">Watch the CI/CD jobs in real time</a> on Gitlab. 👍
 
-<a href="https://gitlab.com/matrix8967/text-mainframe-computer">text.mainframe.computer</a> This is where I put really biased opinions and do virtue signaling.
+<a href="https://text.mainframe.computer/">text.mainframe.computer</a> This is where I put really biased opinions and do virtue signaling. <a href="https://gitlab.com/matrix8967/text-mainframe-computer/">Link to Repo.</a>
 
 <a href="https://gitlab.com/matrix8967/scripts">Scripts</a> is the repo for dotfiles, configs, scripts, etc.
+
+<a href="https://gitlab.com/matrix8967/gutter_bonez">Gutter_Bonez</a> is my _Ansible / Infra as Code_ repo.
