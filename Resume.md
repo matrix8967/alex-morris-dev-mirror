@@ -3,7 +3,7 @@ layout: post
 title: Résumé
 description: ~$ curl https://alexmorris.dev/resume.txt
 #image: assets/svgs/Work.svg
-nav-menu: false
+nav-menu: true
 show_tile: true
 ---
 

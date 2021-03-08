@@ -10,10 +10,9 @@ show_tile: true
 
 ### Network & Systems Engineering:
 
-* Designed and implemented a new 10-Gigabit wired & wireless LAN.
-* Worked with ISP to establish 10gbps Fiber Ring between Kansas City & Dallas.
-* Worked with Engineering & Operations teams to create usable and secure services for staff and clients.
-* Maintained and refactored previous SMB Network.
+* Designed and implemented a 10-Gigabit Network on a Fiber Ring between Tulsa & Dallas.
+* Worked with Engineering & Operations teams to create usable and secure services on site and in VPCs.
+* Replaced aging VMWare & Hyper-V Infrastructure with ProxMox cluster.
 
 ### Volunteer & Activism:
 
