@@ -12,6 +12,7 @@ show_tile: true
 
 * Designed and implemented a 10-Gigabit Network on a Fiber Ring between Tulsa & Dallas.
 * Worked with Engineering & Operations teams to create usable and secure services on site and in VPCs.
+* Configured and maintained cloud infrastructure for `Ruby on Rails` Applications with thousands of daily active users.
 * Replaced aging VMWare & Hyper-V Infrastructure with ProxMox cluster.
 
 ### Volunteer & Activism:
