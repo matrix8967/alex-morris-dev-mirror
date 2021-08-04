@@ -7,5 +7,7 @@ nav-menu: true
 show_tile: true
 ---
 
+If you're scouting, [here's a PDF.](assets/Generic.pdf)
+
 `~$ curl https://alexmorris.dev/resume.txt`
 <object type="image/svg+xml" data="assets/svgs/Work.svg"></object>

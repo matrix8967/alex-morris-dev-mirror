@@ -11,10 +11,14 @@ show_tile: true
 
 <a href="https://gitlab.com/matrix8967/alexmorris.dev">alexmorris.dev</a> Whoa recursion! 🤯 You can see all the code, <a href="https://gitlab.com/matrix8967/alexmorris.dev/commits/master"> (Signed) Commits</a>, and <a href="https://gitlab.com/matrix8967/alexmorris.dev/-/jobs">Watch the CI/CD jobs in real time</a> on Gitlab. 👍
 
-<a href="https://text.mainframe.computer/">text.mainframe.computer</a> This is where I put really biased opinions and do virtue signaling. <a href="https://gitlab.com/matrix8967/text-mainframe-computer/">Link to Repo.</a>
-
 <a href="https://gitlab.com/matrix8967/scrolls">Scrolls</a> is the repo for dotfiles, configs, scripts, etc.
 
 <a href="https://gitlab.com/matrix8967/gutter_bonez">Gutter_Bonez</a> is my _Ansible / Infra as Code_ repo.
 
-<a href="https://gitlab.com/matrix8967/grimoire">Grimoire</a> is a public KB with notes from various projects.
+<a href="https://text.mainframe.computer/">text.mainframe.computer</a> This is where I put really biased opinions and do virtue signaling. <a href="https://gitlab.com/matrix8967/text-mainframe-computer/">Repo 🔗️.</a>
+
+<a href="https://grimoire.heretic.dev/">Grimoire.heretic.dev</a> (つ•̀ᴥ•́)つ*:･ﾟ✧ My book of incantations.<a href="https://gitlab.com/matrix8967/grimoire"> Repo 🔗️. </a>
+
+<a href="https://start.mainframe.computer/">start.mainframe.computer</a> This is a start page, mostly used for testing endpoints. <a href="https://gitlab.com/matrix8967/start-mainframe-computer">Repo 🔗️.</a>
+
+<a href="https://start.heretic.dev/">start.heretic.dev</a> This is a start page, mostly used for testing endpoints. <a href="https://gitlab.com/matrix8967/morning-star">Repo 🔗️.</a>
