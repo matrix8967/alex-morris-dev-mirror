@@ -25,7 +25,7 @@ show_tile: true
 
 ### Personal Projects:
 
-* Documenting my personal [projects](https://text.mainframe.computer/2020/07/23/This-Machine.html) [notes,](https://text.mainframe.computer/2020/08/14/encryption-101.html) and [research,](https://text.mainframe.computer/2020/10/05/Securi-tea-01.html) in a public journal.
+* Documenting my personal [projects](https://text.mainframe.computer/2020/07/23/This-Machine.html) [notes,](https://grimoire.heretic.dev/Configs/Terminal/zshrc.html) and [research,](https://grimoire.heretic.dev/Notes/Ansible/Ansible_Networking_Links.html) in a public journal.
 * ✅️ ~~Setup my own Matrix.org Federated chat server with Jitsi Video Conferencing.~~ [Done!](https://element.mainframe.computer/#/welcome)
 * A never ending list of [consoles,](https://mastodon.social/@matrix8967/105506010036233503) [phones,](https://mastodon.social/@matrix8967/105506005559605437) and [other](https://mastodon.social/@matrix8967/104379093685416474) [devices](https://mastodon.social/@matrix8967/104990241961700874) to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
 * Started working on a 2nd [FOSS Game in the GoDot Engine.](https://mastodon.social/@matrix8967/103746307861989982)
