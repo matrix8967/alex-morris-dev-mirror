@@ -6,9 +6,8 @@ description: ~$ whoami
 nav-menu: true
 show_tile: true
 ---
-`✓ I am not a Robot.`
-
 <img style="display:block; width:25%; height:auto; margin-left:auto; margin-right:auto;" src="assets/images/connect.png" class="center">
+`✓ I am not a Robot.`
 
 Hello Friend.
 
