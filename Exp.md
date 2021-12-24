@@ -31,7 +31,7 @@ show_tile: true
 
 -   Forensic Imaging, Recovery, Handling, and Incident Response.
 -   Worked to clear Technical Debt, allowing for SOC2 certification.
--   Developed Purple Team Security Measures to move security measures earlier in the build process; baking security in instead of bolting on.
+-   Developed Purple Team Security proceedures to move security measures earlier in the build process; baking security in instead of bolting on.
 -   Logging, Monitoring, and Visibility.
 
 ---
@@ -49,6 +49,7 @@ show_tile: true
 -   Documenting my personal [projects](https://text.mainframe.computer/2020/07/23/This-Machine.html) [notes,](https://grimoire.heretic.dev/Configs/Terminal/zshrc.html) and [research,](https://grimoire.heretic.dev/Notes/Ansible/Ansible_Networking_Links.html) in a public journal.
 -   ✅️ ~~Setup my own Matrix.org Federated chat server with Jitsi Video Conferencing.~~ [Done!](https://element.heretic.dev/#/welcome)
 -   A never ending list of [consoles,](https://mastodon.social/@matrix8967/105506010036233503) [phones,](https://mastodon.social/@matrix8967/105506005559605437) and [other](https://mastodon.social/@matrix8967/104379093685416474) [devices](https://mastodon.social/@matrix8967/104990241961700874) to [hack.](https://mastodon.social/@matrix8967/103377713638351769)
+-   Hosting [Virtual Table Top](assets/images/VTT.png), [start](assets/images/Start_Heretic.png) [pages](assets/images/Start_Mainframe.png), [secure paste](assets/images/Paste.png) and [file](assets/images/Send.png) services.
 -   Doing more with [less.](https://mastodon.social/@matrix8967/107206499853243764)
 -   Started working on a 2nd [FOSS Game in the GoDot Engine.](https://mastodon.social/@matrix8967/103746307861989982)
 -   ✅️ ~~Setting up better insights into my LAN, [such as Grafana](https://mastodon.social/@matrix8967/103640872967140961), ELK, and Graylog.~~
