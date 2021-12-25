@@ -18,13 +18,14 @@ show_tile: true
 
 ### Network & Systems Engineering:
 
--   Designed & implemented a 10-Gigabit Fiber Ring Network between Tulsa & Dallas.
--   Designed & installed state-of-the-art Wireless LAN.
+-   Designed & implemented a 10-Gigabit Fiber Ring WAN Network between Tulsa & Dallas.
+-   Built a state-of-the-art Wireless LAN, from planning through installation.
 -   Designed & deployed an Enterprise VPN using Wireguard & Caddy.
--   Supported 200+ employees and their various devices (onsite and while transitioning to remote.)
--   Built Ansible playbooks transitioning legacy infrastructure to version controlled code.
--   Drafted and Implemented an Enterprise NAS to facilitate a Data Lake for media departments.
--   Replaced an aging VMWare & Hyper-V Infrastructure with ProxMox cluster.
+-   Used Ansible to transition legacy infrastructure into version controlled code.
+-   Build a Enterprise NAS to facilitate a Data Lake for media departments.
+-   Replaced aging VMWare & Hyper-V Infrastructure with ProxMox cluster.
+-   Supported 200+ employees and their varying hardware while onsite and remote.
+-   Managed Linux, MacOS, and Windows user devices using Enterprise MDMs. (O365, Active Directory, JAMF, GSuite, etc.)
 -   User training & Docs that are well written, bite-sized, and _actionable_.
 
 ### NetSec:
