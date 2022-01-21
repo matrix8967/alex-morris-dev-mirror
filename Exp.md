@@ -43,7 +43,7 @@ show_tile: true
 -   Featured in the [EFF's case study on Student Privacy](https://www.eff.org/deeplinks/2017/03/privacy-practice-not-just-policy-system-administrator-advocating-student-privacy).
 -   Spearheaded After-School Cyber-Security Club & Taught NetSec Fundamentals to Students.
 -   Jumping in feet-first to organize and triage [wayward firmware updates](https://github.com/system76/firmware-open/issues/98) on a holiday weekends.
--   I also got an [award](https://www.instagram.com/p/B27RWEcA7il/) from my peers for being a super nice dude.
+-   I also got an [award](assets/images/Award.png) from my peers for being a super nice dude.
 
 ### Personal Projects:
 
