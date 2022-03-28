@@ -60,10 +60,12 @@ show_tile: true
 
 ### git blame IRL:
 
-When I graduated high-school in 2007 I said I'd never go back even if they paid me. Shortly afterwards, I was offered a job and I went back without question.
+When I graduated high school in 2007 I said I’d never go back even if they paid me. Shortly afterwards, I was offered a job at the same high school and I went back without question.
 
-I continued working in K-12 schools for a decade where I focused on Automation, Virtualization, and security using Open Source Tools. (_Public Funds? Public Code._)
+I continued working in K-12 schools for a decade. I focused on Automation, Virtualization, and Security using Open Source Tools. K12 provided me with ample opportunities to give back to the community and invest in students the way so many had invested in me during my life.
 
-I left K12 to work at an Education Software Startup in Little Rock. I began as a DevOps Engineer, but took on various roles in our Engineering and Operations Departments before finally settling into the role of _Network Security Engineer_.
+I left K12 to work at an Education Software Startup in Little Rock. I began as a DevOps Engineer, but took on various roles in our Engineering and Operations Departments before finally settling into the role of Network Security Engineer.
 
-As of October 2021 I've taken a sabbatical to focus on personal and technical projects.
+From Multi-OS Device Management, streamlining services with automation, to digital forensics and incident response - I accomplished more than I ever thought possible.
+
+As of October 2021 I’ve taken a sabbatical to focus on my next steps in my life and work.
