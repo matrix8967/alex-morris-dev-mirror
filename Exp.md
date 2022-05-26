@@ -30,8 +30,9 @@ show_tile: true
 
 ### NetSec:
 
--   Forensic Imaging, Recovery, Handling, and Incident Response.
--   Worked to clear Technical Debt, allowing for SOC2 certification.
+-   Forensic Imaging, Recovery, Incident Response and Data Assurance.
+-   Developed workflows, tools, and services to enforce compliance for SOC2.
+-   Created a "Security Culture" hosted Q&A's, Docs, and Demos to make security a common conversation topic.
 -   Developed Purple Team Security proceedures to move security measures earlier in the build process; baking security in instead of bolting on.
 -   Logging, Monitoring, and Visibility.
 
