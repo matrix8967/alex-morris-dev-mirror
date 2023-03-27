@@ -1,4 +1,4 @@
-image: ruby
+image: ruby:3.0
 
 pages:
   stage: build
