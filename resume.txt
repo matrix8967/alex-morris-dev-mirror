@@ -7,20 +7,20 @@
 [38;5;129m [0m[38;5;129m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;93m [0m[38;5;99m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;63m [0m[38;5;69m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;33m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;39m [0m[38;5;38m [0m[38;5;38m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;44m [0m[38;5;43m [0m[38;5;49m [0m[38;5;49m [0m[38;5;49m [0m[38;5;49m [0m[38;5;49m [0m[38;5;49m [0m[38;5;49m [0m
 
   
-  ┌Résumé-tldr.txt
+  ┌ Résumé-tldr.txt
   │
   ├─ Network & Systems Engineering:
   │  │
   │  ├─ Systems Engineering:
   │  │  ├─ LXC, LXD, KVM, Qemu, Docker, K8s.
-  │  │  ├─ Bash Scripting & Automation.
+  │  │  ├─ Scripting & Automation: Bash, Python, Rust, GoLang.
   │  │  ├─ Hybrid Cloud: Linode, Vultr, AWS, GCP.
-  │  │  └─ Ansible, Terraform, & Configuration Mgmt.
+  │  │  └─ Provisioning & Config Mgmt: Ansible, Terraform, Puppet.
   │  │
   │  └─ Network Engineering:
   │     ├─ Cabling, Routing, Switching, Trunking, Subnetting, DNS, DHCP.
   │     ├─ VPNs & Proxies: Wireguard, OpenVPN, Nginx, Caddy.
-  │     └─ Storage and Encryption: ZFS, LFS, LUKS, GELI.
+  │     └─ Storage and Encryption: ZFS, LFS, LUKS, GELI, LVMs
   │
   └─ Activism & Publications:
      │
