@@ -7,7 +7,7 @@ nav-menu: true
 show_tile: true
 ---
 
-<a href="https://gitlab.com/newyearstudios/ritual-jam">Segmentation_Fault</a> is a game I made with <a href="https://www.newyearstudios.com/">newyear studios.</a> This was our first title to work on together, and my first time doing any start-to-finish programmatic work, as well as my first published first work of fiction. I learned a lot through the crucible of troubleshooting, and hindsight. Feel free to fork it, clone it, or do what you like. Feedback and PRs welcome.
+<a href="https://gitlab.com/newyearstudios/ritual-jam">Segmentation_Fault</a> is a game I made with <a href="https://www.newyearstudios.com/">newyear studios.</a> This was our first title to work on together, and my first time doing any start-to-finish programmatic work, as well as my first published work of fiction. I learned a lot through the crucible of troubleshooting, and hindsight. Feel free to fork it, clone it, or do what you like. Feedback and PRs welcome.
 
 <a href="https://gitlab.com/matrix8967/alexmorris.dev">alexmorris.dev</a> Whoa recursion! 🤯 You can see all the code, <a href="https://gitlab.com/matrix8967/alexmorris.dev/commits/master"> (Signed) Commits</a>, and <a href="https://gitlab.com/matrix8967/alexmorris.dev/-/jobs">Watch the CI/CD jobs in real time</a> on Gitlab. 👍
 
