@@ -30,7 +30,7 @@ show_tile: true
 
 ### NetSec:
 
--   Forensic Imaging, Recovery, Incident Response and Data Assurance.
+-   Forensic Imaging, Recovery, Incident Reseponse and Data Assurance.
 -   Developed workflows, tools, and services to enforce compliance for SOC2.
 -   Created a "Security Culture" hosted Q&A's, Docs, and Demos to make security a common conversation topic.
 -   Developed Purple Team Security proceedures to move security measures earlier in the build process; baking security in instead of bolting on.
@@ -65,8 +65,6 @@ When I graduated high school in 2007 I said I’d never go back even if they pai
 
 I continued working in K-12 schools for a decade. I focused on Automation, Virtualization, and Security using Open Source Tools. K12 provided me with ample opportunities to give back to the community and invest in students the way so many had invested in me during my life.
 
-I left K12 to work at an Education Software Startup in Little Rock. I began as a DevOps Engineer, but took on various roles in our Engineering and Operations Departments before finally settling into the role of Network Security Engineer.
+In 2018 I left K12 to work at an EdTech Startup in Little Rock as a DevOps Engineer and eventually became the organizations Subject Matter Expert in Networking & Security. After a sabattical - I returned to the Enterprise as a Systems Engineer for a large financial institution.
 
-From Multi-OS Device Management, streamlining services with automation, to digital forensics and incident response - I accomplished more than I ever thought possible.
-
-As of October 2021 I’ve taken a sabbatical to focus on my next steps in my life and work.
+As of June 2023 - I'm a DevOps Engineer for ALTR, Inc.
