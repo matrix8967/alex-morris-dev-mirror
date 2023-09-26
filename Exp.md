@@ -11,8 +11,8 @@ show_tile: true
 
 ### DevOps:
 
--   Ifrastructure as Code (IaC) using Ansible and Terraform.
--   Change Mgmt & Source Control using Git. (Gitlab/Github Enterprise.)
+-   Infrastructure as Code (IaC) using Ansible and Terraform.
+-   Change Management & Source Control using Git. (Gitlab/Github Enterprise.)
 -   CI/CD Pipelines and Automation.
 -   Configured and maintained cloud infrastructure for Production Applications with thousands of daily active users.
 -   Maintained VPC Network services such as Reverse Proxies and VPNs.
