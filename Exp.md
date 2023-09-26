@@ -11,8 +11,11 @@ show_tile: true
 
 ### DevOps:
 
--   Configured and maintained cloud infrastructure for `Ruby on Rails` Applications with thousands of daily active users.
--   Maintained VPC Network services such as Nginx Reverse Proxies.
+-   Ifrastructure as Code (IaC) using Ansible and Terraform.
+-   Change Mgmt & Source Control using Git. (Gitlab/Github Enterprise.)
+-   CI/CD Pipelines and Automation.
+-   Configured and maintained cloud infrastructure for Production Applications with thousands of daily active users.
+-   Maintained VPC Network services such as Reverse Proxies and VPNs.
 -   Worked with Engineering & Operations teams to create usable and secure hybrid cloud services.
 -   Built Custom Certificate software allowing faster go-live time for clients with automatic creation & renewal.
 
